@@ -1,8 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Geneblis/Geneblis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,4 +11,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+</div>
+
+<div>Linguagens que conheço em algum nivel:</div>
+<div style="display: inline_block"><br>
+ <img align="center" alt="g-Js" height="30" width="40" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img align="center" alt="g-html" height="30" width="40"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+ <img  align="center" alt="g-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
+  
