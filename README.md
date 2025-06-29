@@ -42,12 +42,13 @@
 !-->
 ---
 
-### 🔝 Top Repositories
+### 🔝 Top Repositories<br>
  <div align="center">
+   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Geneblis&layout=compact&theme=dark)](https://github.com/Geneblis)
 </div>
-<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geneblis&show_icons=true&theme=dark" alt="GitHub stats"/>
 </div>
+
 ---
