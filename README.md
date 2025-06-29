@@ -28,9 +28,10 @@
 
 ---
 
-### 🌐 Connect with me
+### 🌐 Contact Me<br>
 [![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
-<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+<!--
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 !-->
 ---
 
