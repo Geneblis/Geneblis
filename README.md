@@ -43,7 +43,9 @@
 ---
 
 ### 🔝 Top Repositories
-https://github-readme-stats.vercel.app/api/top-langs?username=Geneblis&layout=compact&theme=dark)](https://github.com/Geneblis
+[<div align="center">
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Geneblis&layout=compact&theme=dark)](https://github.com/Geneblis)
+</div>](https://github-readme-stats.vercel.app/api/top-langs?username=Geneblis&layout=compact&theme=dark)](https://github.com/Geneblis)
 ---
 
 <div align="center">
