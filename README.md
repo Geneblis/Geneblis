@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 ---
 
 ### 🌐 Connect with me
-[![GitHub followers](https://img.shields.io/github/followers/YourUser?style=social)](https://github.com/Geneblis)  
+[![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
 <!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/yourprofile)  
 !-->
 ---
@@ -76,5 +76,5 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUser&show_icons=true&theme=dark" alt="GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Geneblis&show_icons=true&theme=dark" alt="GitHub stats"/>
 </div>
