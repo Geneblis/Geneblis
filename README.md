@@ -1,4 +1,4 @@
-## Dale! 👋
+## 👋 Dale!
 
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="wave"/>
@@ -43,7 +43,7 @@
 ---
 
 ### 🔝 Top Repositories
----<div align="center">
+ <div align="center">
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Geneblis&layout=compact&theme=dark)](https://github.com/Geneblis)
 </div>
 <br>
