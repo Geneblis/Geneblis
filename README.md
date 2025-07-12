@@ -35,11 +35,9 @@
 !-->
 ---
 
-<!--
-### ✍️ Random Dev Quote
-> “Programs must be written for people to read, and only incidentally for machines to execute.”  
-> – Harold Abelson
-!-->
+### ✍️ Random Quote
+> “Você não é pago para reinventar a roda. Você é pago para saber quando usá-la e como fazê-la girar direito.”  
+> – A Wise Coder.
 ---
 
 ### 🔝 Top Repositories<br>
