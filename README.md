@@ -36,7 +36,7 @@
 ---
 
 ### ✍️ Random Quote
-> “Você não é pago para reinventar a roda. Você é pago para saber quando usá-la e como fazê-la girar direito.”  
+> “Você não é pago para reinventar a roda. Você é pago para saber quando usá-la corretamente.”  
 > – A Wise Coder.
 ---
 
