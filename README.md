@@ -8,10 +8,7 @@
 
 ### 👤 About Me
 - 🎓 Computer Science student  
-- 🌱 Exploring **Python** & **Java** with hands‑on projects  
 - 💡 Passionate about clean and understandable code, low‑level C systems and scripting with **Lua**  
-- 🔭 Currently building a **GTK3 C** application as a portfolio piece  
-
 ---
 
 ### 🔧 Professional Expertise
