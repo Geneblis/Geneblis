@@ -1,16 +1,3 @@
-## 👋 Dale!
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="200" alt="wave"/>
-</div>
-
----
-
-### 👤 About Me
-- 🎓 Computer Science student  
-- 💡 Passionate about clean and understandable code, low‑level C systems and scripting with **Lua**  
----
-
 ### 🔧 Professional Expertise
 <div style="display: inline_block"><br>
   <img align="center" alt="Python"    height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -27,23 +14,18 @@
 
 ### 🌐 Contact Me<br>
 [![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
-<!--
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-!-->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-de-aguiar-195a71306/)  
 ---
 
-### ✍️ Random Quote
-> “Você não é pago para reinventar a roda. Você é pago para saber quando usá-la corretamente.”  
-> – A Wise Coder.
----
-
-### 🔝 Top Repositories<br>
+### 🔝 Graph<br>
  <div align="center">
-   
   [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Geneblis&layout=compact&theme=dark)](https://github.com/Geneblis)
 </div>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Geneblis&show_icons=true&theme=dark" alt="GitHub stats"/>
 </div>
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Geneblis&limit=6&theme=dark&combine_all_yearly_contributions=true" alt="Top contributions"/>
+</p>
 
 ---
