@@ -26,12 +26,6 @@
 </div>
 
 ---
-### 🌐 Contact Me<br>
-[![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-de-aguiar-195a71306/)  
-
----
-
 ### 🔧 Professional Expertise
 <div style="display: inline_block"><br>
   <img align="center" alt="Python"    height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -47,3 +41,8 @@
   <img align="center" alt="Ionic"     height="30" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img align="center" alt="React"     height="30" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
+
+---
+### 🌐 Contact Me<br>
+[![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-de-aguiar-195a71306/)  
