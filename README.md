@@ -1,3 +1,37 @@
+### 🔝 Statistics
+<div align="center">
+
+  <!-- Profile Details -->
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Geneblis&theme=tokyonight" alt="Profile Details" />
+  </p>
+
+  <!-- Top Languages (Repos + Commits) -->
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geneblis&theme=tokyonight" alt="Languages per Repo" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geneblis&theme=tokyonight" alt="Most Commit Language" />
+  </p>
+
+  <!-- General GitHub Stats -->
+  <p>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Geneblis&theme=tokyonight" alt="GitHub Stats" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Geneblis&theme=tokyonight&utcOffset=8" alt="Productive Time" />
+  </p>
+
+  <!-- Contributor Stats -->
+  <p>
+    <img src="https://github-contributor-stats.vercel.app/api?username=Geneblis&limit=6&theme=dark&combine_all_yearly_contributions=true" alt="Contributor Stats" />
+  </p>
+
+</div>
+
+---
+### 🌐 Contact Me<br>
+[![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-de-aguiar-195a71306/)  
+
+---
+
 ### 🔧 Professional Expertise
 <div style="display: inline_block"><br>
   <img align="center" alt="Python"    height="30" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -13,35 +47,3 @@
   <img align="center" alt="Ionic"     height="30" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img align="center" alt="React"     height="30" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
-
-
----
-### 🌐 Contact Me<br>
-[![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-de-aguiar-195a71306/)  
-
----
-
-### 🔝 Statistics
-
-<div align="center">
-  <!-- Top languages -->
-  <p>
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=Geneblis&layout=compact&theme=dark" />
-  </p>
-
-  <!-- Main GitHub stats (icons + commits) -->
-  <p>
-    ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geneblis&theme=vision_friendly_dark)
-    ![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geneblis&theme=vision_friendly_dark)
-  </p>
-
-
-
-  <!-- Top contributions (repos with most contributions) -->
-  <p>
-    <img alt="Top contributions" src="https://github-contributor-stats.vercel.app/api?username=Geneblis&limit=6&theme=dark&combine_all_yearly_contributions=true" />
-  </p>
-</div>
-
----
