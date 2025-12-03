@@ -32,8 +32,11 @@
 
   <!-- Main GitHub stats (icons + commits) -->
   <p>
-    <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Geneblis&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    ![Top Languages](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Geneblis&theme=vision_friendly_dark)
+    ![Top Languages by commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Geneblis&theme=vision_friendly_dark)
   </p>
+
+
 
   <!-- Top contributions (repos with most contributions) -->
   <p>
