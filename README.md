@@ -22,7 +22,7 @@
 
 ---
 
-### 🔝 Graphs & Stats
+### 🔝 Statistics
 
 <div align="center">
   <!-- Top languages -->
