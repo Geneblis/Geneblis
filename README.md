@@ -24,7 +24,7 @@
   </p>
 
 </div>
-
+  <!-- 
 ---
 ### 🔧 Professional Expertise
 <div style="display: inline_block"><br>
@@ -41,6 +41,7 @@
   <img align="center" alt="Ionic"     height="30" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"/>
   <img align="center" alt="React"     height="30" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
 </div>
+-->
 
 ---
 ### 🌐 Contact Me<br>
