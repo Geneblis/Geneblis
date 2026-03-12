@@ -1,4 +1,4 @@
-### 🔝 Statistics
+
 <div align="center">
 
   <!-- Profile Details -->
@@ -46,4 +46,5 @@
 ---
 ### 🌐 Contact Me<br>
 [![GitHub followers](https://img.shields.io/github/followers/Geneblis?style=social)](https://github.com/Geneblis)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-de-aguiar-195a71306/)  
+<!--[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=social&logo=linkedin)](https://www.linkedin.com/in/gabriel-andrade-de-aguiar-195a71306/)  
+-->
